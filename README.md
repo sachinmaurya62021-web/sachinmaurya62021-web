@@ -1,4 +1,4 @@
-👋 Hi, I'm [Your Name]
+👋 Hi, I'm [Sachin Maurya]
 🎓 BCA Student | Beginner Programmer | Starting My Coding Journey 🚀
 
 Welcome to my GitHub profile!
@@ -101,7 +101,7 @@ I'm just getting started, so I'm always happy to learn from other developers and
 
 💼 LinkedIn: Coming Soon
 🌐 Portfolio: Coming Soon
-📧 Email: [Your Email]
+📧 Email: [sachinmaurya62021@gmail.com]
 🌟 A Little About My Journey
 
 Every expert was once a beginner.
